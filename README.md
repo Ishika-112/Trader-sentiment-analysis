@@ -46,5 +46,16 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear/Gr
 ---
 
 ##  How to Run
-```bash
-pip install pandas matplotlib seaborn
+1. Clone repository:
+   git clone https://github.com/your-username/trader-sentiment-analysis.git
+
+2. Install dependencies:
+   pip install pandas numpy matplotlib seaborn jupyter
+
+3. Run notebook:
+   jupyter notebook
+
+4. Open:
+   analysis.ipynb
+
+
