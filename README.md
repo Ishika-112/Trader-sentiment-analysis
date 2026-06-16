@@ -48,7 +48,7 @@ https://drive.google.com/drive/folders/1z8wwag2BQ9BnMKXh6DfKm4RZR4Q0COq7
 
 ##  How to Run
 1. Clone repository:
-   git clone https://github.com/your-username/trader-sentiment-analysis.git
+  git clone https://github.com/Ishika-112/Trader-sentiment-analysis.git
 
 2. Install dependencies:
    pip install pandas numpy matplotlib seaborn jupyter
